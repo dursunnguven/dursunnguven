@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="www.linkedin.com/in/dursungüven" target="_blank">
+  <a href="https://www.linkedin.com/in/dursungüven" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@dursunngvnn" target="_blank">
@@ -31,7 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<!---
-dursunnguven/dursunnguven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
